@@ -1,0 +1,166 @@
+2024-12-22 19:33:03 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-22 19:33:03 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-22 19:33:04 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-22 19:33:08 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-22 19:33:09 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-22 19:33:09 [main] INFO  TestBase.BaseClass - Entering username...
+2024-12-22 19:33:13 [main] INFO  TestBase.BaseClass - Entering password...
+2024-12-22 19:33:13 [main] INFO  TestBase.BaseClass - Clicking login button...
+2024-12-22 19:33:15 [main] INFO  TestBase.BaseClass - Verifying login was successful...
+2024-12-22 19:33:15 [main] INFO  TestBase.BaseClass - Test passed: testValidLogin
+2024-12-22 19:33:48 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-22 19:33:48 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-22 19:33:49 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-22 19:33:52 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-22 19:33:57 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-22 19:33:57 [main] INFO  TestBase.BaseClass - Entering username...
+2024-12-22 19:33:57 [main] INFO  TestBase.BaseClass - Entering password...
+2024-12-22 19:33:58 [main] INFO  TestBase.BaseClass - Clicking login button...
+2024-12-22 19:33:58 [main] INFO  TestBase.BaseClass - Verifying login was successful...
+2024-12-22 19:33:59 [main] INFO  TestBase.BaseClass - Test passed: testValidLogin
+2024-12-22 19:36:51 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-22 19:36:51 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-22 19:36:51 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-22 19:36:54 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-22 19:37:00 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-22 19:37:00 [main] INFO  TestBase.BaseClass - Entering username...
+2024-12-22 19:37:00 [main] INFO  TestBase.BaseClass - Entering password...
+2024-12-22 19:37:01 [main] INFO  TestBase.BaseClass - Clicking login button...
+2024-12-22 19:37:01 [main] INFO  TestBase.BaseClass - Verifying login was successful...
+2024-12-22 19:37:02 [main] INFO  TestBase.BaseClass - Test passed: testValidLogin
+2024-12-22 20:11:36 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-22 20:11:37 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-22 20:11:40 [main] INFO  TestBase.BaseClass - Navigating to URL: null
+2024-12-22 20:12:49 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-22 20:12:49 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-22 20:12:49 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-22 20:12:52 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-22 20:12:59 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-22 20:12:59 [main] INFO  TestBase.BaseClass - Entering username...
+2024-12-22 20:12:59 [main] INFO  TestBase.BaseClass - Entering password...
+2024-12-22 20:13:00 [main] INFO  TestBase.BaseClass - Clicking login button...
+2024-12-22 20:13:00 [main] INFO  TestBase.BaseClass - Verifying login was successful...
+2024-12-22 20:13:01 [main] INFO  TestBase.BaseClass - Test passed: testValidLogin
+2024-12-25 16:28:05 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 16:28:05 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 16:28:05 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 16:28:13 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 16:28:17 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 16:28:20 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 16:28:20 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 18:41:36 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 18:41:37 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 18:41:37 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 18:41:43 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 18:41:46 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 18:41:49 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 18:41:49 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 19:10:16 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 19:10:16 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 19:10:16 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 19:10:18 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 19:10:22 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 19:10:24 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 19:10:24 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 19:11:43 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 19:11:43 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 19:11:43 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 19:11:45 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 19:11:48 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 19:11:51 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 19:11:51 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 20:19:10 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 20:19:10 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 20:19:10 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 20:19:13 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 20:19:16 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 20:19:18 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 20:19:18 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-25 20:31:22 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-25 20:31:22 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-25 20:31:22 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-25 20:31:24 [main] INFO  TestBase.BaseClass - Navigating to URL: https://opensource-demo.orangehrmlive.com/
+2024-12-25 20:31:28 [main] INFO  TestBase.BaseClass - Starting test: testInvalidLogin
+2024-12-25 20:31:30 [main] INFO  TestBase.BaseClass - Starting test: testValidLogin
+2024-12-27 19:24:45 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 19:24:45 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 19:24:46 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 19:24:53 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 19:24:58 [main] INFO  TestBase.BaseClass - Starting test: validSignUp
+2024-12-27 19:27:36 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 19:27:36 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 19:27:36 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 19:27:40 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 19:27:41 [main] INFO  TestBase.BaseClass - Starting test: validSignUp
+2024-12-27 23:17:08 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:17:08 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:17:08 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:17:14 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:24:41 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:24:41 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:24:42 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:24:46 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:31:01 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:31:01 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:31:01 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:31:05 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:31:06 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-27 23:31:52 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:31:52 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:31:52 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:31:56 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:32:05 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-27 23:33:15 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:33:15 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:33:15 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:33:19 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:33:22 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-27 23:43:30 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:43:30 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:43:30 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:43:34 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:43:35 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-27 23:47:08 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-27 23:47:08 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-27 23:47:08 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-27 23:47:12 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-27 23:47:15 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:04:24 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:04:24 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:04:24 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:04:28 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:04:29 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:33:23 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:33:23 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:33:23 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:33:26 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:34:57 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:34:57 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:34:57 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:34:59 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:35:03 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:35:28 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:38:00 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:38:00 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:38:00 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:38:03 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:38:05 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:38:29 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:40:23 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:40:23 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:40:23 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:40:25 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:40:28 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:40:53 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:43:15 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:43:15 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:43:15 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:43:17 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:43:20 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:43:46 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:50:58 [main] INFO  TestBase.BaseClass - Loading configuration file
+2024-12-28 00:50:58 [main] INFO  TestBase.BaseClass - Configuration loaded successfully.
+2024-12-28 00:50:58 [main] INFO  TestBase.BaseClass - Initializing WebDriver...
+2024-12-28 00:51:01 [main] INFO  TestBase.BaseClass - Navigating to URL: https://automationexercise.com/
+2024-12-28 00:51:04 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
+2024-12-28 00:51:29 [main] INFO  TestBase.BaseClass - Starting test: validAccountInformationFlow
